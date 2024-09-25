@@ -30,3 +30,7 @@
 - **Machine Learning**: Random Forest, XGBoost, LightGBM
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Folium
+
+## 메인 페이지
+![메인](https://github.com/khr316/zerosolar/메인페이지.png)
+![메인2](https://github.com/khr316/zerosolar/메인페이지2.png)
