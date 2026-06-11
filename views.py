@@ -87,7 +87,7 @@ from .models import Location
 import requests
 
 # Google Geocoding API Key
-API_KEY = 'AIzaSyA4YgP4B-gZQLGg51u6puyDvWXr6oi1eJY'
+API_KEY = '******'
 base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
 
 # 주소를 위도 및 경도로 변환하고 데이터베이스에 저장하는 뷰 함수
